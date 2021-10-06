@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjflGQnLO2Q02h26pfZ5DTRxS0bqalq/PPUavzgRKmBi0iqrFrnBTVLqJ5+3EWv3QoJe27+3cit7I9hcs34PCg==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\Command Pattern\\Command Pattern\\Command Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

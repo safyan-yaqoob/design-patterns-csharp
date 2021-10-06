@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WD4DXmr4REgT2t+wrPC53VeATpAtfV6zJ245+9QHi80tZaOJ6VUqsqPQnIoriSmzku7bXW5IHdbICh9cDiE8wA==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\Iretator Pattern\\Iretator Pattern\\Iretator Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLHgRazHEKje62eafmOD2geS2UUnIOVWVXnbiDxPWvDi1sSpzpVFN7WshuUj+7j1DNB9Z53M6HtpP9HnhxepAw==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\ChainOfResponsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

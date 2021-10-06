@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nuhef+ZPU6ebP8OOt+paF1QLmvC+xKurlPK8KGtF/Zrwz9Ve2UoYomx9OjH9ZUpv/wlUStbcnFf3DYIAZItRhw==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\Composit Pattern\\Composit Pattern\\Composit Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

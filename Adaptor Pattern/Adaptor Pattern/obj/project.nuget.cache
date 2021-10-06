@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yaxi++uovYs2QGZBPisG6PKKKPcvstu/mgYETWxRCa69dQKvAXNJSlctX/lmelwxyk1VOtQ7iNqd+ASc1SuttQ==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\Adaptor Pattern\\Adaptor Pattern\\Adaptor Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

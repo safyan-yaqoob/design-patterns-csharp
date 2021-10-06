@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOpJQ7usFGeNxlQCgrBQp8iQF7IO4mBA+cTtkRx3u5YoAba4kS+kbAqx5I4fF9JUHMj8PuubuMSmzQQMJwPg3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\Strategy Pattern\\Strategy Pattern\\Strategy Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

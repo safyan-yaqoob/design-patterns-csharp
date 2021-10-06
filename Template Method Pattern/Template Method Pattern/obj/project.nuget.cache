@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaR+1lg8ywu29xh0Aeds+IyaQnl3QD8Pdi4QHzl+6HUlpRXX8ioY3fzc5M2Xe8JDJK8FC1Jujiq0ruF4hjsrVA==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\Template Method Pattern\\Template Method Pattern\\Template Method Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

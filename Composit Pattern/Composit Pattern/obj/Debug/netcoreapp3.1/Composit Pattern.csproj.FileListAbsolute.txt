@@ -1,0 +1,13 @@
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\bin\Debug\netcoreapp3.1\Composit Pattern.exe
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\bin\Debug\netcoreapp3.1\Composit Pattern.deps.json
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\bin\Debug\netcoreapp3.1\Composit Pattern.runtimeconfig.json
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\bin\Debug\netcoreapp3.1\Composit Pattern.runtimeconfig.dev.json
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\bin\Debug\netcoreapp3.1\Composit Pattern.dll
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\bin\Debug\netcoreapp3.1\Composit Pattern.pdb
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\obj\Debug\netcoreapp3.1\Composit Pattern.AssemblyInfoInputs.cache
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\obj\Debug\netcoreapp3.1\Composit Pattern.AssemblyInfo.cs
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\obj\Debug\netcoreapp3.1\Composit Pattern.csproj.CoreCompileInputs.cache
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\obj\Debug\netcoreapp3.1\Composit Pattern.dll
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\obj\Debug\netcoreapp3.1\Composit Pattern.pdb
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\obj\Debug\netcoreapp3.1\Composit Pattern.genruntimeconfig.cache
+D:\Trainnigs\Design Patterns\Composit Pattern\Composit Pattern\obj\Debug\netcoreapp3.1\Composit Pattern.csproj.AssemblyReference.cache

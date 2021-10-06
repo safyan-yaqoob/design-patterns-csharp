@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZ3EJ0LfP5qlO3QzItFJVtjIFSSM1Ca5UpBEHTBB3xm5QX09Mfg3c2auMFTWatzpPEobNOusl4Cr/IBTK8owCw==",
+  "success": true,
+  "projectFilePath": "D:\\Trainnigs\\Design Patterns\\Observer Pattern\\Observer Pattern\\Observer Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
