@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trainnigs\\Design Patterns\\Decorator Pattern\\Decorator Pattern\\Decorator Pattern.csproj",
-      "projectName": "Decorator Pattern",
-      "projectPath": "D:\\Trainnigs\\Design Patterns\\Decorator Pattern\\Decorator Pattern\\Decorator Pattern.csproj",
+      "projectUniqueName": "D:\\Trainnigs\\Design Patterns\\Facade Pattern\\Facade Pattern\\Facade Pattern.csproj",
+      "projectName": "Facade Pattern",
+      "projectPath": "D:\\Trainnigs\\Design Patterns\\Facade Pattern\\Facade Pattern\\Facade Pattern.csproj",
       "packagesPath": "C:\\Users\\Safyan Yaqoob\\.nuget\\packages\\",
-      "outputPath": "D:\\Trainnigs\\Design Patterns\\Decorator Pattern\\Decorator Pattern\\obj\\",
+      "outputPath": "D:\\Trainnigs\\Design Patterns\\Facade Pattern\\Facade Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

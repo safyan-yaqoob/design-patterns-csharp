@@ -1,0 +1,14 @@
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\bin\Debug\netcoreapp3.1\Facade Pattern.exe
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\bin\Debug\netcoreapp3.1\Facade Pattern.deps.json
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\bin\Debug\netcoreapp3.1\Facade Pattern.runtimeconfig.json
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\bin\Debug\netcoreapp3.1\Facade Pattern.runtimeconfig.dev.json
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\bin\Debug\netcoreapp3.1\Facade Pattern.dll
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\bin\Debug\netcoreapp3.1\Facade Pattern.pdb
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.csproj.AssemblyReference.cache
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.AssemblyInfoInputs.cache
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.AssemblyInfo.cs
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.csproj.CoreCompileInputs.cache
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.dll
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.pdb
+D:\Trainnigs\Design Patterns\Facade Pattern\Facade Pattern\obj\Debug\netcoreapp3.1\Facade Pattern.genruntimeconfig.cache
