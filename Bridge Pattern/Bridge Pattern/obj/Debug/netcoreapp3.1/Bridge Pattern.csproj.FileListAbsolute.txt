@@ -1,0 +1,14 @@
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.exe
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.deps.json
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.runtimeconfig.json
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.runtimeconfig.dev.json
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.dll
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.pdb
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.csproj.AssemblyReference.cache
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.AssemblyInfoInputs.cache
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.AssemblyInfo.cs
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.csproj.CoreCompileInputs.cache
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.dll
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.pdb
+D:\Trainnigs\Design Patterns\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.genruntimeconfig.cache
